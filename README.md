@@ -5,8 +5,7 @@ These specific dates are chosen to examine the impact of the two World Wars on h
 The project seeks to identify prevelance in the use of freedom-related language, providing insights into how literature reflects society.
 Ultimately, this research will contribute to understanding how the world wars shaped the way writers address universal themes like freedom.
 ## Background information
-This direction of this research has a couple of studies that are comparable. The first study being: _Post-World War II Masculinities in British and American Literature and Culture: Towards Comparative Masculinity Studies_. This study talks about how masculinity in literature changed because of Wolrd War 2. The second study i found is: _Post-War British Women Writers and their Cultural Impact: A Quantitative Approach
-_. This study looks into Female literature after the wars and researches their differences from female literature before the wars.
+This direction of this research has a couple of studies that are comparable. The first study being: _Post-World War II Masculinities in British and American Literature and Culture: Towards Comparative Masculinity Studies_. This study talks about how masculinity in literature changed because of Wolrd War 2. The second study i found is:_Post-War British Women Writers and their Cultural Impact: A Quantitative Approach_. This study looks into Female literature after the wars and researches their differences from female literature before the wars.
 
 Horlacher, S., & Floyd, K. (2016). Post-World War II masculinities in British and American literature and culture: towards comparative masculinity studies. Routledge.
 Berensmeyer, I., & Trurnit, S. (2022). Post-War British Women Writers and their Cultural Impact: A Quantitative Approach. Journal of Cultural Analytics, 7(1), 81-107.
